@@ -78,7 +78,7 @@ placement-portal/
 
 ### 1️⃣ Clone Repository
 
-git clone https://github.com/YOUR_USERNAME/placement-portal.git
+git clone https://github.com/bharatvyas0712/placement-portal.git
 🗄️ Database
 
 Create MySQL database:
